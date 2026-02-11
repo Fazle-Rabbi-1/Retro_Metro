@@ -7,6 +7,7 @@ void iDraw()
 	iClear();
 	iFilledRectangle(10, 10, 100, 100);
 	iSetColor(255, 255, 255);
+	//GG
 
 }
 
@@ -100,3 +101,4 @@ int main()
 	return 0;
 
 }
+
